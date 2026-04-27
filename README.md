@@ -24,7 +24,7 @@ Projeto simples desenvolvido em Python utilizando SQLite para praticar conceitos
 
 ## 📂 Estrutura do projeto
 
-- main.py → código principal do sistema
+- crud.py → código principal do sistema
 - usuarios.db → banco de dados SQLite
 
 ---
