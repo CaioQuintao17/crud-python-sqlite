@@ -52,4 +52,4 @@ Praticar fundamentos de:
 ## 👨‍💻 Autor
 
 Caio Quintão Silva de Castro  
-LinkedIn: www.linkedin.com/in/caioquintao17/
+
