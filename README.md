@@ -49,7 +49,7 @@ Praticar fundamentos de:
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Caio Quintão Silva de Castro  
 
