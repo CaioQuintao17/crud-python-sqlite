@@ -1,11 +1,11 @@
-# 🐍 Sistema de Cadastro de Usuários (CRUD)
+# Sistema de Cadastro de Usuários (CRUD)
 
-## 📌 Descrição
+##  Descrição
 Projeto simples desenvolvido em Python utilizando SQLite para praticar conceitos de CRUD (Create, Read, Update, Delete), persistência de dados e lógica de programação.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Criar usuários
 - Listar usuários
@@ -15,21 +15,21 @@ Projeto simples desenvolvido em Python utilizando SQLite para praticar conceitos
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python
 - SQLite
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 - crud.py → código principal do sistema
 - usuarios.db → banco de dados SQLite
 
 ---
 
-## 🎯 Objetivo do projeto
+##  Objetivo do projeto
 
 Praticar fundamentos de:
 - Lógica de programação
@@ -40,7 +40,7 @@ Praticar fundamentos de:
 
 ---
 
-## 💡 Aprendizados
+##  Aprendizados
 
 - Uso de SQLite com Python
 - Comandos SQL (SELECT, INSERT, UPDATE, DELETE)
